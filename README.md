@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Principal DevSecOps Engineer
 ----------------------------
 
-I'm a passionate DevSecOps Engineer loving to work with Kubernetes, Openshift, and all the new future mainstream technologies. I speak at conferences and train people to be productive with the most important tools and tech. I my free time I love to go paragliding.
+I'm a passionate DevSecOps Engineer loving to work with Kubernetes, Openshift, and all the new future mainstream technologies. I speak at conferences and train people to be productive with the most important tools and tech. In my free time I love to go paragliding.
 
 * 🌍  I'm based in Steinfurt, Germany
 * 🧠  I'm learning Rust
